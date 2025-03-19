@@ -11,11 +11,11 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Benjamin Migeon
   pic: 1
-  position: Lead Designer
+  position: Compositor
   social:
     - title: youtube
       url: https://www.youtube.com/@BenjaminMigeon
-      
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
